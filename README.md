@@ -4,9 +4,12 @@ Lähteet tutoriaaleista: W3Schools. 2025. https://www.w3schools.com/jquery/defau
 
 Käytin myös chat gpt apuna debuggauksessa ja tarkastamaan mahdolliset syntaxivirheet jos jokin ei toiminut.
 
-linkki esittelyvideoon https://video.laurea.fi/media/todo%20video/0_6yh7osjs linkki githubin kautta sivustoon https://alexseppa.github.io/To-do-list-app/ linkki netlifyn kautta https://soft-starship-bddb13.netlify.app/
+linkki esittelyvideoon https://video.laurea.fi/media/jquery/0_dtq6e5fl
 
 Mielestäni onnistuin hyvin ohjelman rakenteessa sekä jqueryssä. Puuttumaan jäi virheellisen kentän ympäröinti punaisella ja delete buttonin sovittaminen jos teksti on pitkä.
+
+netlify linkki https://sparkly-elf-e70610.netlify.app/
+github pages linkki https://alexseppa.github.io/jquery/
 
 Antaisin itselleni pisteitä 9/10
 
